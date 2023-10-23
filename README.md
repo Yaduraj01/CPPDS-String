@@ -32,5 +32,6 @@ Printing reverse of string
 5. If the character is not the end marker, increase the counter by one.
 6. Repeat this process until you reach the end marker.
 7. Display the value of the counter as the length of the text.
+
 ![image](https://github.com/Yaduraj01/CPPDS-String/assets/110488113/286a74d6-6e18-4d31-b2e5-bba9e2160129)
 
