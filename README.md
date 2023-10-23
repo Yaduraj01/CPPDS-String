@@ -6,6 +6,7 @@ In this file we demonstrate few codes making use of characters of string.
 ## Algorithm
 Code 1: 
 To take a name input and saving it in 'name' variable.
+
 ![image](https://github.com/Yaduraj01/CPPDS-String/assets/110488113/f7d914da-bbe1-4ecf-9364-0371dfaceff3)
 
 
@@ -18,6 +19,7 @@ Finding String length
    - If it's not the null terminator, increment the counter.
    - Continue this process until the null terminator is reached.
 4. Display the counter value, which is the length of the string.
+
 ![image](https://github.com/Yaduraj01/CPPDS-String/assets/110488113/6188d7af-938c-4ed8-a836-c60fffa71313)
 
 
